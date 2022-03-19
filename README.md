@@ -13,7 +13,7 @@ A simple CRUD operations with Django and use Class Based Views
 <br>
 <code>source ./bin/scripts/activate</code>
 <br>
-<code>pip install requirments.txt</code>
+<code>pip install -r requirments.txt</code>
 <br>
 <code>python manage.py makemigrations</code>
 <br>
@@ -33,7 +33,7 @@ and for run:<br>
 <br>
 <code>source ./bin/scripts/activate</code>
 <br>
-<code>pip install requirments.txt</code>
+<code>pip install -r requirments.txt</code>
 <br>
 <code>python manage.py makemigrations</code>
 <br>
